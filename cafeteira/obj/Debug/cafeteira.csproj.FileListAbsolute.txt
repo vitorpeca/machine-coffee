@@ -1,0 +1,12 @@
+C:\Users\vitor\source\repos\cafeteira\cafeteira\bin\Debug\cafeteira.exe.config
+C:\Users\vitor\source\repos\cafeteira\cafeteira\bin\Debug\cafeteira.exe
+C:\Users\vitor\source\repos\cafeteira\cafeteira\bin\Debug\cafeteira.pdb
+C:\Users\vitor\source\repos\cafeteira\cafeteira\obj\Debug\cafeteira.csprojAssemblyReference.cache
+C:\Users\vitor\source\repos\cafeteira\cafeteira\obj\Debug\cafeteira.Properties.Resources.resources
+C:\Users\vitor\source\repos\cafeteira\cafeteira\obj\Debug\cafeteira.csproj.GenerateResource.cache
+C:\Users\vitor\source\repos\cafeteira\cafeteira\obj\Debug\cafeteira.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\cafeteira\cafeteira\obj\Debug\cafeteira.exe
+C:\Users\vitor\source\repos\cafeteira\cafeteira\obj\Debug\cafeteira.pdb
+C:\Users\vitor\source\repos\cafeteira\cafeteira\obj\Debug\cafeteira.MaquinaCafe.resources
+C:\Users\vitor\source\repos\cafeteira\cafeteira\obj\Debug\cafeteira.dinheiro.resources
+C:\Users\vitor\source\repos\cafeteira\cafeteira\obj\Debug\cafeteira.giphycafe.resources
